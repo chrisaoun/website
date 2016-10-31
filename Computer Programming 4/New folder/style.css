@@ -1,0 +1,33 @@
+table, td, th {
+    border: 3px solid #000000;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr {
+    padding: 20px;
+	font-family: Verdana;
+	
+}
+
+td{
+	padding: 20px;
+	font-family: Verdana;
+	font-weight: bold
+}
+
+body {
+	font-family: Verdana;
+	font-size: 20px;
+	text-align: center
+
+}
+
+head {
+	text-align: right
+}
+

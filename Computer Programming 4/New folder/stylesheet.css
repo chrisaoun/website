@@ -1,0 +1,6 @@
+p .columns {
+    column-count: 3;
+	column-gap: 40px;
+	column-rule-style: solid;
+	column-width: 100px;
+}
